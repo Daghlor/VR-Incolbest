@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.56553555, g: 0.5655354, b: 0.56553805, a: 1}
+  m_IndirectSpecularColor: {r: 0.5663582, g: 0.5651772, b: 0.5663582, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3301,7 +3301,7 @@ MonoBehaviour:
       manifestationFlags: 2
       viewFlags: 3
       subMeshInclusionFlags: 2047
-  _activeView: 1
+  _activeView: 2
   _activeManifestation: 2
   _activeSubMeshes: 2047
   _activeSubMeshesIncludeUntyped: 1
